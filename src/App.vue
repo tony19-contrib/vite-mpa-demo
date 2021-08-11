@@ -1,4 +1,7 @@
 <template>
+  <nav>
+    <a href="/src/About/index.html">About</a>
+  </nav>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
 </template>
